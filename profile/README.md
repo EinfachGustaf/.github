@@ -1,4 +1,4 @@
-![Discord Shield](https://discordapp.com/api/guilds/1065307087724363796/widget.png?style=shield) <img src="https://komarev.com/ghpvc/?username=einfachgustaf&color=brightgreen" alt="watching_count" />
+[![Discord Shield](https://discordapp.com/api/guilds/1065307087724363796/widget.png?style=shield)](https://discord.gg/jMzKy3enQV) <img src="https://komarev.com/ghpvc/?username=einfachgustaf&color=brightgreen" alt="watching_count" />
 
 # EinfachGustaf.live is a free-to-play Minecraft server
 This is our GitHub organization.
