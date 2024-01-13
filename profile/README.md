@@ -11,4 +11,4 @@ But you can join our [Discord Server](https://discord.gg/jMzKy3enQV)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/einfachgustaf.live)
 
 ## Our stats
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/einfachgustaf?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
