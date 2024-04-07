@@ -12,3 +12,9 @@ But you can join our [Discord Server](https://discord.gg/jMzKy3enQV)
 
 ## Our stats
 <img src="https://widgetbite.com/stats/EinfachGustaf" alt="watching_count" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,debian,windows,java,kotlin,gradle,maven,idea,vscode,spring,md,mongodb,redis,terraform,discord" />
+  </a>
+</p>
