@@ -16,6 +16,6 @@ But you can join our [Discord Server](https://discord.gg/jMzKy3enQV)
 ## Our skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,kubernetes,docker,debian,windows,java,kotlin,gradle,maven,idea,vscode,spring,md,mongodb,redis,terraform,discord,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=github,git,kubernetes,docker,debian,windows,java,kotlin,gradle,maven,idea,vscode,spring,jenkins,md,mongodb,redis,terraform,discord,cloudflare" />
   </a>
 </p>
